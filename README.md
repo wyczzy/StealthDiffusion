@@ -13,6 +13,7 @@
    ```
 
 2. Datasets and Pretrain-weights
+
 Please download the dataset [GenImage](https://github.com/GenImage-Dataset/GenImage) and the data root directory should be organized as follows.
 ```
 ├── ADM
